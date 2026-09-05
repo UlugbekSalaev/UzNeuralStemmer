@@ -38,7 +38,7 @@ The models were evaluated on a human-verified, morphologically annotated corpus 
 
 ---
 
-## 🏆 Experimental Results (Table III from IEEE Paper)
+## 🏆 Experimental Results
 
 | Model Name | Exact Stem Accuracy (%) | Avg. Levenshtein Edit Distance | Architecture Type |
 | :--- | :---: | :---: | :--- |
@@ -151,4 +151,3 @@ If you use **UzNeuralStemmer** or the annotated stemming dataset in your researc
 ## 👨‍💻 Authors & Contact
 
 - **Ulugbek Salaev** ([GitHub](https://github.com/UlugbekSalaev) | [Google Scholar](https://scholar.google.com/citations?user=-YxQf8AAAAAJ)) — *Urgench State University*
-- **Gayrat Matlatipov** — *Urgench State University*
