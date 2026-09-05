@@ -116,7 +116,7 @@ python evaluate.py --test_data data/test_annotated.csv
 
 ---
 
-## ⚙️ Hyperparameters (Table II from IEEE Paper)
+## ⚙️ Hyperparameters
 
 | Hyperparameter | Recurrent Models (BiLSTM / CharCNN-BiLSTM / Seq2Seq) | Transformer Models (Seq2Seq T5-base / TahrirchiBERT) |
 | :--- | :--- | :--- |
